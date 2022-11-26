@@ -1,3 +1,6 @@
+TEAM: Sairaj & Prabish
+
+
 >Install xaamp control pannel 
 >Start Apache and Mysql 
 >CLick on Mysql admin
